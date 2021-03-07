@@ -1,0 +1,1 @@
+void generateAdddr(unsigned char* addr, unsigned char *pk) ;

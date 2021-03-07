@@ -1,0 +1,34 @@
+
+<round 1> 648
+<header> 560
+<round 10> 1296
+<header> 560
+<round 100> 7776
+<header> 560
+<round 1000> 72576
+<header> 560
+
+seal time <1 trans> 1.7e-05
+<round 1> 648
+<header> 560
+seal time <1 trans> 2.1e-05
+<round 1> 648
+<header> 560
+seal time <10 trans> 8.5e-05
+<round 10> 1296
+<header> 560
+seal time <10 trans> 8e-05
+<round 10> 1296
+<header> 560
+seal time <100 trans> 0.000108
+<round 100> 7776
+<header> 560
+seal time <100 trans> 0.000121
+<round 100> 7776
+<header> 560
+seal time <1000 trans> 0.000283
+<round 10> 72576
+<header> 560
+seal time <1000 trans> 0.000282
+<round 10> 72576
+<header> 560
